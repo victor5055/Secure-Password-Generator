@@ -64,3 +64,12 @@ input[type=checkbox] {
   height: 40px;
   width: 40px;
 }
+/*Generate Password and Clipboard*/
+.btn {
+	border: none;
+	color: #fff;
+	cursor: pointer;
+	font-size: 16px;
+	padding: 8px 12px;
+	background-color:blue;
+}

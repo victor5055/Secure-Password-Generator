@@ -50,3 +50,17 @@ input[type=checkbox] {
 	height: 50px;
 	width: 100%;
 }
+
+.result-container #result {
+    word-wrap: break-word;
+  max-width: calc(100% - 40px);
+}
+
+.result-container .btn {
+  font-size: 20px;
+  position: absolute;
+  top: 5px;
+  right: 5px;
+  height: 40px;
+  width: 40px;
+}

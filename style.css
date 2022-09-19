@@ -73,3 +73,21 @@ input[type=checkbox] {
 	padding: 8px 12px;
 	background-color:blue;
 }
+.btn-large {
+	display: block;
+	width: 100%;
+}
+
+.setting {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	margin: 15px 0;
+}
+/*Media Query to fit all sizes*/
+@media screen and (max-width: 400px) {
+	.result-container {
+		font-size: 14px;
+	}
+}
+

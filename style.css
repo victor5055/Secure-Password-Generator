@@ -1,0 +1,18 @@
+/*font*/
+@import url('https://fonts.googleapis.com/css?family=Muli&display=swap');
+/*Box style*/
+* {
+	box-sizing: border-box;
+}
+/*Body of the page*/
+body {
+	background-color:greenyellow;
+	color: #fff;
+	display: flex;
+	font-family: 'Muli', sans-serif;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	padding: 10px;
+	min-height: 100vh;
+}

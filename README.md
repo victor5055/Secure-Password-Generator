@@ -18,7 +18,7 @@ SO THAT I can create a strong password that provides greater security
 https://fontawesome.com/
 https://www.w3schools.com/
 https://www.net-comber.com/charset.html
-https://github.com/victor5055/Victor-Pereira-Portfolio
+https://github.com/victor5055/Secure-Password-Generator
 https://victor5055.github.io/Secure-Password-Generator/
 
 

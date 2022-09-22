@@ -9,7 +9,7 @@ N/A
 
 # Image
 
-![](Images\Password%20Img.jpg)
+![](Password%20Img.jpg)
 
 # Usuage
 

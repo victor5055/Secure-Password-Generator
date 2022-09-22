@@ -48,6 +48,7 @@ function generatePassword(lower, upper, number, symbol, length) {
 	const typesCount = lower + upper + number + symbol;
 	const typesArr = [{lower}, {upper}, {number}, {symbol}].filter(item => Object.values(item)[0]);
 	
+	
 	// Doesn't have a selected type
 	if(typesCount === 0) {
 		return '';

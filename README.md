@@ -7,6 +7,10 @@ This week's Challenge requires you to modify starter code to create an applicati
 # installation
 N/A
 
+# Image
+
+![](Password20%Img.jpg)
+
 # Usuage
 
 AS AN employee with access to sensitive data
